@@ -8,10 +8,14 @@ public class Demo1 {
         System.out.println("Hello,git");
         System.out.println("Hello,git");
         System.out.println("Hello,git");
+        System.out.println(1233333);
+
+
     }
 
     public void add(){
         int a=2;
         a+=10;
+        System.out.println(222222223);
     }
 }
