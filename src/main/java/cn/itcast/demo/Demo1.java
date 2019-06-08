@@ -9,4 +9,9 @@ public class Demo1 {
         System.out.println("Hello,git");
         System.out.println("Hello,git");
     }
+
+    public void add(){
+        int a=2;
+        a+=10;
+    }
 }
